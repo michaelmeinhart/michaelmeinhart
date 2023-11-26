@@ -1,4 +1,4 @@
-### Hi there 👋
+### Michael Meinhart's Github Profile
 
 <!--
 **michaelmeinhart/michaelmeinhart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
